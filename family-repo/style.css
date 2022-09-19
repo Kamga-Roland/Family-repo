@@ -1,0 +1,67 @@
+.main {
+    text-overflow: hidden;
+}
+
+.header {
+    background-color: rgb(33, 34, 33);
+}
+
+body{
+    background-color: rgba(125, 135, 125, 0.389);
+}
+
+.content{
+    background-color: rgba(194, 199, 194, 0.389);
+    height: 115vh;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#mf{
+    padding: 30px;
+    color: #000;
+    font-weight: bold;
+}
+
+.pouhmeni {
+    font-size: 25px;
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    padding-left: 30px;
+}
+
+a:hover{
+    color:rgb(92, 98, 99);
+}
+
+ul {
+    display: flex;
+    font-size: 15px;
+    padding-left: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+footer{
+    background-color: rgb(75, 70, 70);
+    color: #fff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#developer{
+    text-align: end;
+    padding-right: 10px;
+    font-style: italic;
+    font-size: 10px;
+}
+
+img{
+    width: 50vw;
+    float: left;
+}

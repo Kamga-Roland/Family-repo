@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(33, 34, 33);
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-image: url(file.pic/meni.jpg);
+}
+
+.main{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}
+h2{
+    text-align: center;
+    padding-top: 25px;
+}
